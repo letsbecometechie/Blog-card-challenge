@@ -3,7 +3,7 @@
 
 <div align="center">
   <h3>
-    <a href="">Preview Website</a>
+    <a href="https://letsbecometechie.github.io/Blog-card-challenge/">Preview Website</a>
   </h3>
 </div>
 
