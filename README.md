@@ -9,7 +9,7 @@
 
 ## Overview
 
-![Desktop](./design/desktop.png)
+![Desktop](./desktop.png)
 
 ## Built With
 
